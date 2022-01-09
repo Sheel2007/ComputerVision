@@ -1,11 +1,10 @@
-# MachineLearning
-This is a repository of all my machine learning projects.
+# Computer Vision
+This is a repository of all my computer vision projects.
 
-All these projects can be run in either a notebook (google colab or jupyter notebook) or a virtual environment.
+All these projects can be run in either jupyter notebook or a virtual environment.
 
-The projects each have a corresponding dataset attached in the datasets folder. 
+The projects each have a corresponding xml file that can be downloaded from https://github.com/opencv/opencv/tree/master/data/haarcascades. 
 
-All the datasets have been downloaded from kaggle and are NOT created by me, I only downloaded and used them.
+All the xml files have been downloaded by myself and are NOT created by me.
 
 Feel free to download any and all of these projects.
-# ComputerVision
